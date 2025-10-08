@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Streamlit local files
+.streamlit/secrets.toml
+pantry_data.csv
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
